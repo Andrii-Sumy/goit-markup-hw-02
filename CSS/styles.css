@@ -22,36 +22,6 @@ a {
   text-align: center;
   color: #fff;
 }
-h1 {
-  font-weight: 700;
-  font-size: 56px;
-  line-height: 1.07143;
-  letter-spacing: 0.02em;
-  text-align: center;
-  color: #fff;
-}
-h2 {
-  font-weight: 700;
-  font-size: 36px;
-  line-height: 1.11111;
-  letter-spacing: 0.02em;
-  text-align: center;
-  color: #2e2f42;
-}
-h3 {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-p {
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
 .header-logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -84,7 +54,7 @@ p {
   color: #404bbf;
 }
 .hero-btn {
-  font-family: "Roboco", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -122,17 +92,36 @@ p {
   letter-spacing: 0.02em;
   color: #434455;
 }
+.futures-item {
+  background-color: #ffffff;
+}
+.futures-sub {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
 .team {
   background: #f4f4fd;
 }
 .team-title {
-  font-weight: 500;
+  font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
   text-transform: capitalize;
+}
+.team-subtitle {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
 }
 .team-text {
   font-weight: 400;
@@ -142,19 +131,19 @@ p {
   text-align: center;
   color: #434455;
 }
-.portfolio {
+.portfolio-our {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
-  letter-spacing: 0.02em;
+  line-height: 1.11;
   text-align: center;
+  letter-spacing: 0.02em;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 .portfolio-title {
   text-transform: capitalize;
-  line-height: 1.11;
   font-weight: 500;
-  font-size: 36px;
+  font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
@@ -174,7 +163,7 @@ p {
   color: #f4f4fd;
 }
 .footer-logo {
-  font-family: "Releway", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
@@ -183,7 +172,7 @@ p {
   color: #4d5ae5;
 }
 .footer-logo-text {
-  font-family: "Releway", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
